@@ -1,5 +1,4 @@
 # Music Genre Pattern Detection Using Linear Algebra
-**PES University | UE24MA241B — Linear Algebra and Its Applications**
 
 ## Problem Statement
 Detecting music genre patterns from raw audio features using a complete linear algebra pipeline — no machine learning used.
